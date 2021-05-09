@@ -1,2 +1,2 @@
 # Vanilla-Js-Todo
-The app is hosted at https://github.com/yatharth17/Vanilla-Js_Todo/settings/pages
+The app is hosted at https://yatharth17.github.io/Vanilla-Js_Todo/
